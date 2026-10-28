@@ -1,4 +1,6 @@
-# Eduleb - Education HTML Template
+# MORGAN-edu
+
+## Eduleb - Education HTML Template
 #### Preview
 
  - [Demo](https://themewagon.github.io/eduleb/)
